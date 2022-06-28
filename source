@@ -1,0 +1,85 @@
+void display (void)
+
+Help
+
+Tell me what you want to do
+
+Word
+
+for (digit-4, templ-1 digit>-1:digit--)
+
+if (number [digit-1]-10)
+
+PORTD&-OXOF:
+
+PORTDI-temp1*16,
+
+if (show==1)
+
+show_digit (number [digit-1]):
+
+else
+
+PORTA-0X40:
+
+Delay us (5000);
+
+PORTA-OX00:
+
+}
+
+templ*-2:
+
+}
+
+void show digit (char digit)
+
+switch (digit)
+
+case 1 {
+
+PORTA-PORTAJ 0X06;
+
+case 2: (
+
+case 4:
+
+}break;
+
+PORTA-PORTA|0X5B: case 3: ( PORTA PORTAI0X4F:
+
+)break:
+
+break;
+
+break;
+
+case 5:1
+
+PORTA-PORTAI0X66:
+
+PORTA-PORTAI0X6D:
+
+case 6: ( PORTA-PORTAI0X7D:
+
+case 7:( PORTA-PORTA 0X07:
+
+break;
+
+case Bit
+
+case 9:1
+
+break;
+
+}break:
+
+PORTA-PORTAI0X7F:
+
+PORTA-PORTALOX6Y:
+
+case Ot PORTA-PORTAL OXSF:
+
+}break:
+
+)break:
